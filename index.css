@@ -1,0 +1,29 @@
+body {
+    font-family: 'Fira Sans', sans-serif;
+    color: #000000;
+    background-color: #ffffff;
+    width: 100%;
+    margin: 0px;
+    overflow-x: hidden;
+}
+
+.content{
+    margin: 5%;
+}
+
+a:link {
+    text-decoration: none;
+    color: #000000;
+  
+  }
+  
+a:visited {
+    text-decoration: none;
+    color: #000000;
+}
+  
+img{
+position: relative;
+}
+  
+  
